@@ -17,6 +17,8 @@ Actualmente el sistema dispone de 3 opciones.
     3. Exportar en el fichero datos.txt la información del cliente que le indiquemos.
 Si en la llamada al programa le indicamos el parametro idcliente, el programa directamente descargará el archivo de datos.txt con la información.
 
+El fichero  que se va a generar se va a almacenar en el directorio donde se encuentre el lanzador.
+
 ## Instalación
 ***
 En el raiz del repositorio podemos encontrar el fichero registroProveedores.jar. Simplemente debemos lanzarlo y ya dispondiamos de todo lo necesario para poder probar

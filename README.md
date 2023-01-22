@@ -1,9 +1,9 @@
 ## TABLA DE CONTENIDO
-1. [Como funciona](#Como funciona)
+1. [Funcionamiento](#Funcionamiento)
 2. [Instalación](#Instalación)
 3. [Dependencias](#Dependencias)
 
-## Como funciona
+## Funcionamiento
 ***
 El programa se puede lanzar directamente desde el archivo registroProveedores.jar que se encuentra en el raiz del repositorio.
 
